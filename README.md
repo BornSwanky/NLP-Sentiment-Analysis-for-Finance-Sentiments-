@@ -32,8 +32,4 @@ Upload your CSV file or paste text to analyze sentiment.
 
 
 ## Documentation 
-Refer to the FinancialSentimentReport.pdf for detailed documentation on:
-Project objectives
-Implementation steps
-Code snippets
-Results and findings
+Refer to the FinancialSentimentReport.pdf for detailed documentation on: Project objectives, Implementation steps, Code snippets, Results and findings
